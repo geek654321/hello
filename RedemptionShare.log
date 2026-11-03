@@ -1,0 +1,74 @@
+D2Game.dll @ 03A20000
+All patches applied (share 100%, range aura formula).
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 15 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 1767 -> 1767 (max 1767), now reads 1767
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 2 inRange 0
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 2 inRange 0
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 1565 -> 1660 (max 1767), now reads 1660
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 1660 -> 1755 (max 1767), now reads 1755
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 1063 -> 1158 (max 1767), now reads 1158
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 1158 -> 1253 (max 1767), now reads 1253
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 509 -> 604 (max 1767), now reads 604
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 604 -> 699 (max 1767), now reads 699
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 14 inRange 1
+[diag]   grant -> 1149C800 (type 1 class 338): hp 164 -> 259 (max 1767), now reads 259
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 12 inRange 1
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 12 inRange 1
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 12 inRange 1
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 12 inRange 1
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 12 inRange 0
+[diag] corpse redeemed: owner=034D2800 type 0 class 6 skill 124 lvl 15 -> life 95 mana 95, share 95/95, range 16
+[diag]   leader=034D2800
+[diag]   playerData=0253FA00 pets=034E0C80 list=034D2900 petTypes=20
+[diag]   pet type 7 guid 1 -> 1149C800 mode 12 inRange 0
